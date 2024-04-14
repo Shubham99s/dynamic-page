@@ -10,7 +10,7 @@ const ProductSection = () => {
   useEffect(() => {
     //get product api
     axios
-      .get('http://localhost:8000/products')
+      .get('https://tanntrimbackend.onrender.com/products')
       .then((response) => {
         setProductList(response.data);
       })
