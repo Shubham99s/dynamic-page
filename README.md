@@ -27,8 +27,14 @@ This is a Fully Responsive Dynamic Page of TANN TRIM Website built with the (Rea
 
 - **Backend**: Backend build using Node js. Used express.js for building the REST API which is used to fetch the product data in frontend for product section/component, also used dotenv for getting environment variables.
 
-   
+## ScreenShot
 ![](https://res.cloudinary.com/dygfievoq/image/upload/v1713161875/tann-trim_web_lrmm90.png)
+
+## Demo-Video:
+https://github.com/Shubham99s/dynamic-page/assets/130645527/27bd7864-aeee-4db8-817e-13a099f4b8ed
+
+
+
 
 ## Technologies Used
 
