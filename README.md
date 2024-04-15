@@ -8,14 +8,6 @@ For backend : https://github.com/Shubham99s/TannTrimBackend
 - Deployed Frontend Website on Netlify: https://tann-trim-dynamic.netlify.app/ 
 - Deployed Backend Website on Render: https://tanntrimbackend.onrender.com/products
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Deployment](#deployment)
-
 ## Overview
 
 This is a Fully Responsive Dynamic Page of TANN TRIM Website built with the (React.js ,Express.js, Node.js,REST API).This Website has two part frontend and backend.
@@ -35,6 +27,8 @@ https://github.com/Shubham99s/dynamic-page/assets/130645527/27bd7864-aeee-4db8-8
 
 
 
+## Figma-Desgin
+ - https://www.figma.com/file/uWsNcQ6k60xf0yu34vH1pb/TT-PLP?node-id=0%3A1
 
 ## Technologies Used
 
